@@ -2,9 +2,6 @@
     "compilerOptions": {
         "baseUrl": ".",
         "paths": {
-            "c/HelloWorld": [
-                "HelloWorld/HelloWorld.js"
-            ],
             "c/helloWorld": [
                 "helloWorld/helloWorld.js"
             ]
