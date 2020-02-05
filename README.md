@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+[![Build status](https://dev.azure.com/saset/SFDC/_apis/build/status/SFDC-CI)](https://dev.azure.com/saset/SFDC/_build/latest?definitionId=9)
 # Salesforce App
 
 This guide helps Salesforce developers who are new to Visual Studio Code go from zero to a deployed app using Salesforce Extensions for VS Code and Salesforce CLI.
